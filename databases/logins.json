@@ -4,11 +4,5 @@
     "user": 1,
     "session": 1,
     "timing": "2024-01-05T01:05:30.628Z"
-  },
-  {
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTcwNDQxNjk3MCwiZXhwIjoxNzM1OTc0NTcwfQ.K8V3No0zvs_0wocoqDgwexDN4WwrLSQD1YFFWjpUMik",
-    "user": 2,
-    "session": 1,
-    "timing": "2024-01-05T01:09:30.540Z"
   }
 ]

@@ -6,7 +6,6 @@ import authMiddleware from '../middlewares/authMiddleware';
 import { APP_NAME } from '../libs/constants'
 
 import Loader from '../components/loader'
-import Menu from '../components/menu'
 import Aside1 from '../components/aside1'
 import Aside2 from '../components/aside2'
 import MainIndex from '../components/main/index'
@@ -24,7 +23,6 @@ const Home = () => {
             </Head>
             <div className="theme-black">
                 <Loader />
-                <Menu />
                 <Aside1 />
                 <Aside2 />
                 <MainIndex />
