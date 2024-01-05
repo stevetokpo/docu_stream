@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "email": "dev.stevetokpo@gmail.com",
+    "password": "$2a$12$G//CCnaQrJvJumRJV/SjLeDPNJGdSverGGsi72JnMY8FzME1UoZOS",
+    "name": "Steve Tokpo",
+    "status": 1,
+    "timing": "2024-01-05T01:05:30.622Z"
+  },
+  {
+    "id": 2,
+    "email": "stevendstokpo60@gmail.com",
+    "password": "$2a$12$tN4okuVKCZk4hVPBI/YEPuPjJJHua2h1.y6CndWHhQI90bheT1xKO",
+    "name": "Steve Tokpo",
+    "status": 1,
+    "timing": "2024-01-05T01:09:30.535Z"
+  }
+]
